@@ -27,3 +27,9 @@ console.log(add(100, 50));
 
 // gauti is vartojo sakini su prompt it paversti ji visai case'ais ir atspausdinti
 // konsoleje
+
+// istrinti paketa is projekto
+// npm uninistall gulp
+// npm remove gulp
+// npm rm gulp
+// npm un gulp
