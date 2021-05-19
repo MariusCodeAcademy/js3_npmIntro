@@ -4,7 +4,9 @@
   "description": "Cia mes pasibando npm pirma karta. ",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js",
+    "pr": "node js/prompt.js",
+    "dev": "nodemon app.js"
   },
   "keywords": [
     "test",

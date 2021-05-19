@@ -33,3 +33,36 @@ console.log(add(100, 50));
 // npm remove gulp
 // npm rm gulp
 // npm un gulp
+
+// instaliuoti specifine versija, verisja nurodom po @ simboliu
+// npm install bootrap@4.0.0
+
+// antaujinti kazkuri paketa
+// npm update bootstrap
+
+/**
+ * "scripts": {
+    "start": "node app.js",
+    "pr": "node js/prompt.js",
+    "dev": "nodemon app.js"
+  },
+  skriptuose aprasyti key yra paleidiziami su 
+  npm run <key> ir vygdoma <value> kodo dalis
+  arba npm start - vienintelis leidziamas be 'run'
+  
+ */
+
+// 1. susikurti nauja projekta su npm
+
+//2. isidiegti date-fns paketa ir pabandyti gauti vakar dienos dabarties laika
+
+// 2.1 gauti kelintadienis buvo pries 8nias dienas
+
+// 2.2 gauti jei imanoma zmogisku laiku praeities laika minutemis
+// pvz 5 min ago, 2 hours ago ir pan
+
+// 3 nusiusti koda i gihub
+
+// 4 istrinti is savo kompiuterio ir parsisiusti su git clone
+
+// 5 prideti skripta kuris paleisiu pagrindini faila su npm start
