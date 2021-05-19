@@ -9,6 +9,8 @@ console.log(add(100, 50));
 // npm init
 // npm install --save lodash
 
+// https://www.npmjs.com/
+
 // node_modules direktorija yra visos musu projekto priklausomybes
 // sitas folderis neturetu buti pridedamas i git
 // .gitignore - faile nurodom failus is direktorijas kuriu nenorim prideti i git
@@ -22,3 +24,6 @@ console.log(add(100, 50));
 
 // instaliujam paketus globaliai - tai reiskia veiks visur
 //npm install -g nodemon
+
+// gauti is vartojo sakini su prompt it paversti ji visai case'ais ir atspausdinti
+// konsoleje
